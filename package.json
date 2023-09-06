@@ -1,5 +1,5 @@
 {
-  "name": "cretu.dev",
+  "name": "zen",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -68,12 +68,12 @@
   "license": "MIT",
   "author": {
     "email": "crisemcr@gmail.com",
-    "name": "Cristian Crețu",
-    "url": "https://cretu.dev"
+    "name": "Solomon Shalom Lijo // The Abyss",
+    "url": "https://theabyss.ink"
   },
-  "homepage": "https://cretu.dev",
+  "homepage": "https://theabyss.ink",
   "bugs": {
-    "url": "https://github.com/cristicretu/cretu.dev/issues"
+    "url": "https://github.com/solomonshalom/zen/issues"
   },
   "browserslist": [
     ">0.2%",

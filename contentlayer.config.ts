@@ -45,16 +45,16 @@ const computedFields: ComputedFields = {
       '@type': 'BlogPosting',
       author: {
         '@type': 'Person',
-        name: 'Cristian Crețu',
+        name: 'Solomon Shalom Lijo // The Abyss',
       },
       dateModified: doc.publishedAt,
       datePublished: doc.publishedAt,
       description: doc.summary,
       headline: doc.title,
       image: doc.image
-        ? `https://cretu.dev${doc.image}`
-        : `https://cretu.dev/static/images/og.png`,
-      url: `https://cretu.dev/writing/${doc._raw.flattenedPath}`,
+        ? `https://theabyss.ink${doc.image}`
+        : `https://theabyss.ink/static/images/og.png`,
+      url: `https://theabyss.ink/writing/${doc._raw.flattenedPath}`,
     }),
     type: 'json',
   },

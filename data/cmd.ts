@@ -32,7 +32,7 @@ export type Action = {
       name: "GitHub",
       keywords: "github",
       perform: () => {
-        window.open("https://github.com/cristicretu");
+        window.open("https://github.com/solomonshalom");
       },
       section: "Socials",
       color: "#61C167",
@@ -92,15 +92,15 @@ export type Action = {
       name: "GitHub",
       keywords: "github",
       perform: () => {
-        window.open("https://github.com/cristicretu");
+        window.open("https://github.com/solomonshalom");
       },
       section: "Socials",
     },
     {
-      name: "Twitter",
-      keywords: "twitter",
+      name: "The Abyss",
+      keywords: "The Abyss",
       perform: () => {
-        window.open("https://twitter.com/cristicrtu");
+        window.open("https://abyss.ink");
       },
       section: "Socials",
     },
