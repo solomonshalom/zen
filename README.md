@@ -1,5 +1,6 @@
-writer.
+# Zen
 
-Streamlined, focused writing experience.
+An ultra(beautfull) platform to articulate your thoughts, part of [The Abyss](https://theabyss.ink). 
 
-<img width="1174" alt="image" src="https://user-images.githubusercontent.com/45521157/227706853-d504f149-6d9e-47cc-a9b8-dd88f0513b2e.png">
+<img width="1174" alt="image" src="sidenote.png">
+(Originally based on [Writer](cristicretu) by @cristicretu)

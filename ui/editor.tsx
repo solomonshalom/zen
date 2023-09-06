@@ -10,7 +10,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 export default function Editor() {
   const editor = useEditor({
     extensions: [StarterKit, Link],
-    content: '<p>✨ Find flow...</p>',
+    content: '<p>✨ Find flow~</p>',
     editorProps: {
       attributes: {
         class:
