@@ -45,16 +45,16 @@ const computedFields: ComputedFields = {
       '@type': 'BlogPosting',
       author: {
         '@type': 'Person',
-        name: 'Solomon Shalom Lijo // The Abyss',
+        name: 'Solomon Shalom Lijo // Bublr',
       },
       dateModified: doc.publishedAt,
       datePublished: doc.publishedAt,
       description: doc.summary,
       headline: doc.title,
       image: doc.image
-        ? `https://theabyss.ink${doc.image}`
-        : `https://theabyss.ink/static/images/og.png`,
-      url: `https://theabyss.ink/writing/${doc._raw.flattenedPath}`,
+        ? `https://bublr.life${doc.image}`
+        : `https://bublr.life/static/images/og.png`,
+      url: `https://bublr.life/writing/${doc._raw.flattenedPath}`,
     }),
     type: 'json',
   },

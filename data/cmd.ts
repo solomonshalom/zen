@@ -97,8 +97,8 @@ export type Action = {
       section: "Socials",
     },
     {
-      name: "The Abyss",
-      keywords: "The Abyss",
+      name: "Bublr",
+      keywords: "Bublr",
       perform: () => {
         window.open("https://abyss.ink");
       },

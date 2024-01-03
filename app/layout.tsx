@@ -10,9 +10,9 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  authors: [{ name: 'Solomon Shalom Lijo // The Abyss', url: 'https://theabyss.ink' }],
+  authors: [{ name: 'Solomon Shalom Lijo // Bublr', url: 'https://bublr.life' }],
   category: 'writing',
-  creator: 'Solomon Shalom Lijo // The Abyss',
+  creator: 'Solomon Shalom Lijo // Bublr',
   description: 'write your ideas.',
   icons: {
     apple: '/static/favicons/apple-touch-icon-180x180.png',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       {
         alt: 'writer.',
         height: 1080,
-        url: 'https://theabyss.ink/static/images/og.png',
+        url: 'https://bublr.life/static/images/og.png',
         width: 1920,
       },
     ],
@@ -35,9 +35,9 @@ export const metadata: Metadata = {
     siteName: 'writer.',
     title: 'writer.',
     type: 'website',
-    url: 'https://zen.theabyss.ink'
+    url: 'https://zen.bublr.life'
   },
-  publisher: 'Solomon Shalom Lijo // The Abyss',
+  publisher: 'Solomon Shalom Lijo // Bublr',
   robots: {
     follow: true,
     googleBot: {
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     site: '@cristicrtu',
-    title: 'Solomon Shalom Lijo // The Abyss',
+    title: 'Solomon Shalom Lijo // Bublr',
   },
 };
 

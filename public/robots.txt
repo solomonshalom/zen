@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://theabyss.ink/sitemap.xml
+Sitemap: https://bublr.life/sitemap.xml
